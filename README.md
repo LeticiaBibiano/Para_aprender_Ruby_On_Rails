@@ -1,2 +1,8 @@
-# Para_aprender_Ruby_On_Rails
-Nesse repo, você vai encontrar materiais úteis para estudar e aprender RoR.
+# Faça sua contribuição também!!! 😁
+Abra um PR com um novo arquivo contendo links, cursos, vídeos, imagens que sejam úteis para o aprendizado de Ruby On Rails.
+
+# Índice de conteúdo:
+
+## Iniciante:
+### Para aprender a linguagem de programação Ruby:
++ [Curso de Lógica de programação com Ruby](https://link-url-here.org) Por: Campus Code.
