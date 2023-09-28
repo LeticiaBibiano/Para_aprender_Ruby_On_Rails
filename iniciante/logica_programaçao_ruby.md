@@ -15,6 +15,6 @@ Esse curso é oferecido gratuitamente pela Campus Code e é disponibilizado dura
 
 6. Hash → https://vimeo.com/567489552/2322279c69
 
-7. Métodos → https://app.campuscode.com.br/conteudo/7-metodos
+7. Métodos → https://vimeo.com/567489482/845eae1a13
 
 8. Boas Práticas → https://vimeo.com/567489445/d60ea899ee
